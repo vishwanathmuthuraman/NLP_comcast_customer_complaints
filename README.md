@@ -4,7 +4,7 @@ LSA is a method of analyzing text data using principal component analysis. LDA i
 Additionally, both documents and words are represented by orthogonal vectors. LDA is concerned with independent topics, while LSA is concerned with orthogonal representations.
 Lastly, LDA requires a minimum number of topics or components. K is selected as the most effective method for capturing the majority of variations in the data.
 
-![alt text](https://github.com/[vishwanath1996]/[NLP_comcast_customer_complaints]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/vishwanathmuthuraman/NLP_comcast_customer_complaints/blob/main/Topic-Modeling-using-LSA-NMF-and-LDA-After-topic-modeling-we-identify-topic-topics.jpg)
 
 # Comcast consumer complaint dataset
 
